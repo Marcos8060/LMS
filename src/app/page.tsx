@@ -32,7 +32,7 @@ export default function Home() {
       <div className="flex items-center justify-center h-screen md:w-9/12 w-11/12 mx-auto">
         <div className="md:block hidden w-1/2 shadow text-white bg-primary rounded-tl-xl rounded-bl-xl h-[70vh]">
           <h1 className="text-2xl font-bold flex items-center justify-center h-[70vh]">
-            HR Management System
+            Learning Management System
           </h1>
         </div>
         <div className="md:w-1/2 w-full bg-white shadow md:px-12 px-4 md:rounded-tr-xl md:rounded-br-xl h-[70vh] flex items-center justify-center">
