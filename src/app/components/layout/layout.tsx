@@ -1,7 +1,6 @@
 "use client";
 import React from "react";
 import MenuChildren from "./menu-children";
-import Logo from '../../../assets/logo'
 
 const Sidebar = () => {
   return (

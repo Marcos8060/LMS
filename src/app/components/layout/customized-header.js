@@ -12,7 +12,7 @@ const CustomizedHeader = () => {
 
   const open = Boolean(anchorEl);
 
-  const handleClick = (event: any) => {
+  const handleClick = (event) => {
     setAnchorEl(event.currentTarget);
   };
 
@@ -23,7 +23,7 @@ const CustomizedHeader = () => {
   return (
     <section className="h-[10vh] py-6 px-6 flex items-center justify-between">
       <div>
-        <h1 className="font-bold text-2xl">Good morning {user?.username}</h1>
+        <h1 className="font-bold text-2xl">Good afternoon {user?.username}</h1>
       </div>
       <div>
         <div className="flex items-center gap-2">
