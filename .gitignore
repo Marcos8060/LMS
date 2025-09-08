@@ -131,16 +131,6 @@ temp/
 config.ini
 secrets.json
 
-# Log files
-*.log
-logs/
-
-# IDE files
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
 
 # OS generated files
 .DS_Store
